@@ -1,6 +1,6 @@
 Andrej ima 1 pobjeda i 1 poraza.
 Gabriela ima 1 pobjeda i 1 poraza.
 
-. . O
+. O O
 X X O
 . X X
